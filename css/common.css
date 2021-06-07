@@ -3,12 +3,11 @@
 body{
 	background: black;
 	color : white;
+	margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
-
-a {
-	color : white;
-}
-a:hover {
-	color : olive;
-	
-}
+a {color : white;}
+a:hover {color : olive;}
+li{list-style: none;}
+h1{text-align: center;}
